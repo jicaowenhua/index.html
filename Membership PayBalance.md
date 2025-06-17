@@ -1,3 +1,4 @@
+## 会员管理
 ### 会员余额支付
 - **URL**：`/third-api/open/v1/third/payBalance`
 - **Method**：`POST`
