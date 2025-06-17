@@ -1,10 +1,10 @@
 # 集草开放平台接口文档
 
 ▸ **会员管理**  
-    ┌── [📄 会员余额](index.html/MembershipBalance.md)  
-    ├── [📄 会员余额支付](index.html/MembershipPayBalance.md)  
-    ├── [📄 会员售后](index.html/MembershipRefund.md)  
-    └── [📄 会员二维码验证](index.html/MembershipQRCodeVerification.md)
+    ┌── [📄 会员余额](MembershipBalance.md)  
+    ├── [📄 会员余额支付](MembershipPayBalance.md)  
+    ├── [📄 会员售后](MembershipRefund.md)  
+    └── [📄 会员二维码验证](MembershipQRCodeVerification.md)
 
 ## 请求加密规则
 ```
