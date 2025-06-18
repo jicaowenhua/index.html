@@ -4,7 +4,7 @@
     ┌── [📄 会员余额](MembershipBalance.md)  
     ├── [📄 会员余额支付](MembershipPayBalance.md)  
     ├── [📄 会员售后](MembershipRefund.md)  
-    └── [📄 会员二维码验证](MembershipQRCodeVerification.md)
+    └── [📄 会员二维码验证获取信息](MembershipQRCodeVerification.md)
 
 ## 请求加密规则
 ```
