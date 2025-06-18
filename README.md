@@ -74,7 +74,7 @@ POST\n/open/v1/third/user/verifyToken\n1554208460\n593BEC0C930BF1AFEB40B4A08C8FB
      * 调用集草平台
      */
     @PostMapping(value = "/open/v1/third/user/verifyToken", consumes = MediaType.APPLICATION_JSON_VALUE)
-    JsapiTransactionResponse jsapi(@RequestHeader("Authorization") String authorization,
+    JsapiTransactionResponse jsapi(@RequestHeader("X-Third-Authorization") String authorization,
                                    @RequestHeader("Accept") String accept,
                                    @RequestBody String body);
 ```
