@@ -4,6 +4,8 @@
     ┌── [📄 会员余额](MembershipBalance.md)  
     ├── [📄 会员余额支付](MembershipPayBalance.md)  
     ├── [📄 会员售后](MembershipRefund.md)  
+    ├── [📄 会员退款查询](MembershipRefundSelect.md)  
+    ├── [📄 会员支付查询](MembershipPaySelect.md)  
     └── [📄 会员二维码验证获取信息](MembershipQRCodeVerification.md)
 
 ## 请求加密规则
