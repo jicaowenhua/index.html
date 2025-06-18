@@ -62,3 +62,13 @@
     "errormsg":null,
     "ok":true
     }
+
+- **响应成功** (200 同一订单重复支付)：
+  ```json
+  {
+    "traceId":null,
+    "code":"202506160956",
+    "data":null,
+    "errormsg":"订单已支付，请勿重复支付",
+    "ok":false
+  }
