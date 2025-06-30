@@ -6,6 +6,7 @@
     ├── [📄 会员售后](MembershipRefund.md)  
     ├── [📄 会员退款查询](MembershipRefundSelect.md)  
     ├── [📄 会员支付查询](MembershipPaySelect.md)  
+    ├── [📄 门店订单变更通知](StoreUpdateAnnouncement.md)  
     └── [📄 会员二维码验证获取信息](MembershipQRCodeVerification.md)
 
 ▸ **商品管理**  
