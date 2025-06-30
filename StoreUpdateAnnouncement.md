@@ -26,11 +26,15 @@
         "storeId":82374
       }
 
-    X-Third-Authorization: nonce_str="F56YVzJYn7LMwaczHC6m9VVZ7v3eGPv2",signature="0yNCRU1N5Jb8x5iShrXv1ITa8Sh//9Q/RmaGLfU46oQKjavKPwAomY9atQmFDG8xgIvIOaAZ2WoUSwB5DWNcrD9gp1SGYVklbP3mmgPsiMNolwIofdxLfRDv8KKK9QYCyW4PtyYnXPaNfcpVCLSGt+8oDpe23H2gUsYITu2KJpvcrgD4tg/P+Sl85FBTzFynU9+vJ3gADd77KlA3SoMdXf69CUzGhyAfEF51gvHQ0m8Gbs1+QpQqc8lxzRB20+kRVXkJHLbppzLcu7thME21xaJlF/SeOm7IstqzBYuhEk4unLf5f28yEdnVxDTSq0aZKr73mPAzC/F0Ha+4885qsw==",timestamp="1750124289",serial_no="store001"
+    X-Third-Authorization: nonce_str="dszvrLhgzs4gxdKGtsc2OMR4Cue4fT0z",signature="m2Y3T4cxfTWYWPBh5F0TFjLJKYA4a2y2+HQrEKwxQN7QGSUuPxJVUGHLlunlHDNXsuDdh3GPmGBHjSm4V82Mcfzbu7PKIZ2W7lCrYcGiHop6vK1dIqQFeq4OjROkrB95kfSDsiAGQzPiEr2iTwmJXh5fWiWZE+PgLSXYykot6wkCd8bkjJKpwYHSbUDCCX95xGEUrcTg6Dg77yDel6Bujt0YXQpxy6vIlJUcTCCJrYdFzm/TI3W7ilxxfkrvtYR4r9yckb5dmu0OwNZEG1zQjOwft40rjH9pJMlRP4BiXNJR6/dqRe6Ne23IrA/h+I5tWBBhom08JRwTVeC6Tu+rkw==",timestamp="1751252398",serial_no="store001"
 
 ```
 - **响应成功** (200)：
   ```json
   {
-    
+    "traceId":null,
+    "code":"200",
+    "data":null,
+    "errormsg":null,
+    "ok":true
   }
