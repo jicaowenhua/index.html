@@ -12,6 +12,10 @@
 ▸ **商品管理**  
     ┌── [📄 商品资料上传](UploadProductData.md)  
 
+▸ **订单管理**  
+    ┌── [📄 取货码获取订单信息](GetUserOrder.md)  
+    
+
 ## 请求加密规则
 ```
 HTTP请求方法\n
